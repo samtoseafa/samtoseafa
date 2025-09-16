@@ -1,6 +1,6 @@
 - 👋 Hi there, I’m @samtoseafa
 - 👀 I’m interested in computers, programming, and software development 
-- 🌱 I’m currently studying Computer Engineering at Drexel University
+- 🌱 I studied Computer Engineering at Drexel University with double minors in Computer Science and Economics
 - 💞️ I’m looking to collaborate on open-source projects.
 - 📫 How to reach me: via email setoseafa@gmail.com
 
